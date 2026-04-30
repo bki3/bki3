@@ -1,4 +1,5 @@
 # Hi there 👋 — Welcome to my GitHub!
+![banner](https://via.placeholder.com/1200x250?text=Welcome+to+my+GitHub+Profile)
 
 ## 👨‍💻 About Me
 I'm **Bi**, an IT undergraduate at **NJIT** and a **Team Lead at United Airlines**, building a career at the intersection of **software engineering**, **data analysis**, and **full‑stack web development**.
